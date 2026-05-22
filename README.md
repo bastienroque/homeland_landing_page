@@ -1,16 +1,16 @@
-# Projeto Homeland
+# Homeland Project
 
-Criação da landing page do projeto Homeland.
-Inclui várias partes tendo em conta as recéns aprendizagens sobre design responsivo.
+Creation of the Homeland project landing page.
+It includes several sections that incorporate recent learnings about responsive design.
 
-## Funcionalidades
-- Design responsivo
+## Features
+- Responsive design
 
-## Tecnologias utilizadas
+## Technologies used
 - HTML5
 - CSS3
 - Normalize.css
 - Fonts.css
 
-# Link para GitHub Pages
+# Link to GitHub Pages
 https://bastienroque.github.io/web_project_homeland/
