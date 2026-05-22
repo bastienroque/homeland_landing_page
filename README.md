@@ -13,4 +13,4 @@ It includes several sections that incorporate recent learnings about responsive 
 - Fonts.css
 
 # Link to GitHub Pages
-https://bastienroque.github.io/web_project_homeland/
+https://bastienroque.github.io/homeland_landing_page
